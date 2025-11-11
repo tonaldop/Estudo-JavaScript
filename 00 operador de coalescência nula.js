@@ -1,7 +1,9 @@
+// operador de coalescência nula
+
 /*
-O operador ?? em JavaScript é o operador de coalescência nula (nullish coalescing operator). 
-Ele é usado para fornecer um valor padrão quando a expressão à sua esquerda é null ou undefined. 
-Por exemplo, variavel ?? valorPadrao retornará valorPadrao se variavel for null ou undefined, e retornará o próprio variavel em outros casos. 
+    O operador ?? é o operador de coalescência nula (nullish coalescing operator);
+    Ele é usado para fornecer um valor padrão quando a expressão à sua esquerda é null ou undefined;
+    Exemplo, variavel ?? valorPadrao retornará valorPadrao se variavel for null ou undefined, e retornará o próprio variavel;
 */
 
 let nomeDoUsuario = null

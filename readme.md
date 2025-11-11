@@ -1,5 +1,5 @@
 # Repositório para fins de aprendizado (JavaScript)
-### Comentário
+### Comentários
 ### Tipos Primitivos
 ### Variaveis
 ### Funções

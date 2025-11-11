@@ -1,6 +1,7 @@
 // Operadores de atribuição
 
-/*  +=	Atribuição de adição
+/*  
+    +=	Atribuição de adição
     -=	Atribuição de subtração
     *=	Atribuição de multiplicação
     /=	Atribuição de divisão
